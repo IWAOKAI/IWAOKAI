@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Iwao Kai 👋
 
-<!--
-**IWAOKAI/IWAOKAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rust / Move Smart Contract Engineer** based in Japan 🇯🇵
 
-Here are some ideas to get you started:
+🔭 **Currently building**
+- Low-latency DeFi trading & liquidation bots on Sui
+- Self-learning bots with adaptive P&L scoring
+- Multi-node infrastructure (QuickNode / Chainstack / Shinami)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Stack**
+`Rust` `Move` `Sui` `Solana` `TypeScript` `WebSocket` `gRPC` `Tokio`
+
+📜 **Deployed on Mainnet**
+- See pinned repositories below
+
+📫 **Contact**
+- Email: rinasamuraix@gmail.com
+- LinkedIn: [iwaokai](https://www.linkedin.com/in/iwaokai)
